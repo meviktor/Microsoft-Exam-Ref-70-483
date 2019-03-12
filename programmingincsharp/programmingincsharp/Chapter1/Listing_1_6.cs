@@ -4,7 +4,7 @@ using System.Threading;
 namespace Chapter1
 {
     //Using ThreadLocal<T>
-    public static class Listing16
+    public static class Listing_1_6
     {
         public static ThreadLocal<int> _field =
             new ThreadLocal<int>(() =>

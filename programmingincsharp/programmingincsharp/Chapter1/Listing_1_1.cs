@@ -4,7 +4,7 @@ using System.Threading;
 namespace Chapter1
 {
     //Creating a thread with the Thread class
-    public static class Listing11
+    public static class Listing_1_1
     {
         public static void ThreadMethod()
         {

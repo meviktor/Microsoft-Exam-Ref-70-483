@@ -4,7 +4,7 @@ using System.Threading;
 namespace Chapter1
 {
     //Using the ParametrizedThreadStart
-    public static class Listing13
+    public static class Listing_1_3
     {
         public static void ThreadMethod(object o)
         {

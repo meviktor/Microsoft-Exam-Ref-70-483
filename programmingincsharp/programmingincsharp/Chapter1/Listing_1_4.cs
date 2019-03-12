@@ -4,7 +4,7 @@ using System.Threading;
 namespace Chapter1
 {
     //Stopping a thread
-    public static class Listing14
+    public static class Listing_1_4
     {
         public static void ThreadMethod(object o)
         {

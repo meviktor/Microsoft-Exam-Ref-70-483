@@ -4,7 +4,7 @@ using System.Threading;
 namespace Chapter1
 {
     //Using a backgroud thread
-    public static class Listing12
+    public static class Listing_1_2
     {
         public static void ThreadMethod()
         {

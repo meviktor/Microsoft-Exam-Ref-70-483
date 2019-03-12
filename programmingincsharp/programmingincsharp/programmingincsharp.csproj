@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Chapter1.Listing17</StartupObject>
+    <StartupObject>Chapter1.Listing_1_17</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,13 @@
   <ItemGroup>
     <Compile Include="Chapter1\Listing_1_1.cs" />
     <Compile Include="Chapter1\Listing_1_10.cs" />
+    <Compile Include="Chapter1\Listing_1_11.cs" />
+    <Compile Include="Chapter1\Listing_1_12.cs" />
+    <Compile Include="Chapter1\Listing_1_13.cs" />
+    <Compile Include="Chapter1\Listing_1_14.cs" />
+    <Compile Include="Chapter1\Listing_1_15.cs" />
+    <Compile Include="Chapter1\Listing_1_16.cs" />
+    <Compile Include="Chapter1\Listing_1_17.cs" />
     <Compile Include="Chapter1\Listing_1_2.cs" />
     <Compile Include="Chapter1\Listing_1_3.cs" />
     <Compile Include="Chapter1\Listing_1_4.cs" />

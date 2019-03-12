@@ -4,7 +4,7 @@ using System.Threading;
 namespace Chapter1
 {
     //Using the TreadStaticAttribute
-    public static class Listing15
+    public static class Listing_1_5
     {
         [ThreadStatic]
         public static int _field;

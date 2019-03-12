@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 namespace Chapter1
 {
     //Starting a new task
-    public static class Listing18
+    public static class Listing_1_8
     {
         public static void Main()
         {

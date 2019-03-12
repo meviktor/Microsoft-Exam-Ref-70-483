@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 namespace Chapter1
 {
     //Adding a continuation
-    public static class Listing110
+    public static class Listing_1_10
     {
         public static void Main()
         {
