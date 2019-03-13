@@ -10,9 +10,11 @@ namespace Chapter1
         {
             Task<int> t = Task.Run(() =>
             {
+                //throw new Exception();
                 return 42;
             }).ContinueWith((i) =>
             {
+                //Console.WriteLine("Continuing t...");
                 return i.Result * 2;
             });
 

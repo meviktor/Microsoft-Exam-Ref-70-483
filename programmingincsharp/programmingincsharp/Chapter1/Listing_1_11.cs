@@ -10,6 +10,7 @@ namespace Chapter1
         {
             Task<int> t = Task.Run(() =>
             {
+                //throw new Exception();
                 return 42;
             });
 
@@ -27,6 +28,8 @@ namespace Chapter1
             {
                 Console.WriteLine("Completed");
             }, TaskContinuationOptions.OnlyOnRanToCompletion);
+
+            completedTask.Wait();
         }
     }
 }
