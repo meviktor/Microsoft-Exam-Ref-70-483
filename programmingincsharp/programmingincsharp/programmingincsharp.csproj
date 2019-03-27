@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Chapter1.Listing_1_17</StartupObject>
+    <StartupObject>MyExamples.ExceptionInFinallyBlock</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Chapter1\Listing_1_89.cs" />
     <Compile Include="Chapter1\Listing_1_1.cs" />
     <Compile Include="Chapter1\Listing_1_10.cs" />
     <Compile Include="Chapter1\Listing_1_11.cs" />
@@ -56,13 +57,65 @@
     <Compile Include="Chapter1\Listing_1_16.cs" />
     <Compile Include="Chapter1\Listing_1_17.cs" />
     <Compile Include="Chapter1\Listing_1_2.cs" />
+    <Compile Include="Chapter1\Listing_1_22.cs" />
+    <Compile Include="Chapter1\Listing_1_23.cs" />
+    <Compile Include="Chapter1\Listing_1_24.cs" />
+    <Compile Include="Chapter1\Listing_1_25.cs" />
+    <Compile Include="Chapter1\Listing_1_26.cs" />
+    <Compile Include="Chapter1\Listing_1_27.cs" />
+    <Compile Include="Chapter1\Listing_1_28.cs" />
+    <Compile Include="Chapter1\Listing_1_29.cs" />
     <Compile Include="Chapter1\Listing_1_3.cs" />
+    <Compile Include="Chapter1\Listing_1_30.cs" />
+    <Compile Include="Chapter1\Listing_1_31.cs" />
+    <Compile Include="Chapter1\Listing_1_32.cs" />
+    <Compile Include="Chapter1\Listing_1_33.cs" />
+    <Compile Include="Chapter1\Listing_1_34.cs" />
+    <Compile Include="Chapter1\Listing_1_35.cs" />
+    <Compile Include="Chapter1\Listing_1_36.cs" />
+    <Compile Include="Chapter1\Listing_1_37.cs" />
+    <Compile Include="Chapter1\Listing_1_38.cs" />
+    <Compile Include="Chapter1\Listing_1_39.cs" />
     <Compile Include="Chapter1\Listing_1_4.cs" />
+    <Compile Include="Chapter1\Listing_1_40.cs" />
+    <Compile Include="Chapter1\Listing_1_41.cs" />
+    <Compile Include="Chapter1\Listing_1_42.cs" />
+    <Compile Include="Chapter1\Listing_1_43.cs" />
+    <Compile Include="Chapter1\Listing_1_44.cs" />
+    <Compile Include="Chapter1\Listing_1_45.cs" />
     <Compile Include="Chapter1\Listing_1_5.cs" />
     <Compile Include="Chapter1\Listing_1_6.cs" />
+    <Compile Include="Chapter1\Listing_1_63.cs" />
     <Compile Include="Chapter1\Listing_1_7.cs" />
+    <Compile Include="Chapter1\Listing_1_73.cs" />
+    <Compile Include="Chapter1\Listing_1_74.cs" />
+    <Compile Include="Chapter1\Listing_1_75.cs" />
+    <Compile Include="Chapter1\Listing_1_76.cs" />
+    <Compile Include="Chapter1\Listing_1_77.cs" />
+    <Compile Include="Chapter1\Listing_1_78.cs" />
+    <Compile Include="Chapter1\Listing_1_79.cs" />
     <Compile Include="Chapter1\Listing_1_8.cs" />
+    <Compile Include="Chapter1\Listing_1_80.cs" />
+    <Compile Include="Chapter1\Listing_1_81.cs" />
+    <Compile Include="Chapter1\Listing_1_82.cs" />
+    <Compile Include="Chapter1\Listing_1_83.cs" />
+    <Compile Include="Chapter1\Listing_1_84.cs" />
+    <Compile Include="Chapter1\Listing_1_85.cs" />
+    <Compile Include="Chapter1\Listing_1_86.cs" />
+    <Compile Include="Chapter1\Listing_1_87.cs" />
+    <Compile Include="Chapter1\Listing_1_88.cs" />
     <Compile Include="Chapter1\Listing_1_9.cs" />
+    <Compile Include="Chapter1\Listing_1_90.cs" />
+    <Compile Include="Chapter1\Listing_1_91.cs" />
+    <Compile Include="Chapter1\Listing_1_92.cs" />
+    <Compile Include="Chapter1\Listing_1_93.cs" />
+    <Compile Include="Chapter1\Listing_1_95.cs" />
+    <Compile Include="Chapter1\Listing_1_97.cs" />
+    <Compile Include="Chapter1\Listing_1_98.cs" />
+    <Compile Include="MyExamples\DelegatesAndLambda.cs" />
+    <Compile Include="MyExamples\DotNetEventGuideLine.cs" />
+    <Compile Include="MyExamples\ExceptionInFinallyBlock.cs" />
+    <Compile Include="MyExamples\RaiseEventsInDerivedClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
