@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MyExamples.ExceptionInFinallyBlock</StartupObject>
+    <StartupObject>programmingincsharp.MyExamples.AttributesAndReflection.AttributesReflectionExample</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -112,9 +112,24 @@
     <Compile Include="Chapter1\Listing_1_95.cs" />
     <Compile Include="Chapter1\Listing_1_97.cs" />
     <Compile Include="Chapter1\Listing_1_98.cs" />
+    <Compile Include="Chapter2\Listing_2_24.cs" />
+    <Compile Include="Chapter2\Listing_2_25.cs" />
+    <Compile Include="Chapter2\Listing_2_56.cs" />
+    <Compile Include="Chapter2\Listing_2_72.cs" />
+    <Compile Include="Chapter2\Listing_2_73.cs" />
+    <Compile Include="MyExamples\AttributesAndReflection\AndroidAttribute.cs" />
+    <Compile Include="MyExamples\AttributesAndReflection\Application.cs" />
+    <Compile Include="MyExamples\AttributesAndReflection\AppTargetAttribute.cs" />
+    <Compile Include="MyExamples\AttributesAndReflection\AttributesReflectionExample.cs" />
+    <Compile Include="MyExamples\AttributesAndReflection\DesktopAttribute.cs" />
+    <Compile Include="MyExamples\AttributesAndReflection\MobileAttribute.cs" />
+    <Compile Include="MyExamples\AttributesAndReflection\SymbianAttribute.cs" />
     <Compile Include="MyExamples\DelegatesAndLambda.cs" />
     <Compile Include="MyExamples\DotNetEventGuideLine.cs" />
+    <Compile Include="MyExamples\DyamicObjectExample.cs" />
     <Compile Include="MyExamples\ExceptionInFinallyBlock.cs" />
+    <Compile Include="MyExamples\ExpandoObjectExample.cs" />
+    <Compile Include="MyExamples\FlagsAttributeExample.cs" />
     <Compile Include="MyExamples\RaiseEventsInDerivedClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
