@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>programmingincsharp.MyExamples.AttributesAndReflection.AttributesReflectionExample</StartupObject>
+    <StartupObject>Chapter3.Listing_3_24</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -117,6 +117,9 @@
     <Compile Include="Chapter2\Listing_2_56.cs" />
     <Compile Include="Chapter2\Listing_2_72.cs" />
     <Compile Include="Chapter2\Listing_2_73.cs" />
+    <Compile Include="Chapter3\Listing_3_17.cs" />
+    <Compile Include="Chapter3\Listing_3_24.cs" />
+    <Compile Include="MyExamples\AsymetricEncryption.cs" />
     <Compile Include="MyExamples\AttributesAndReflection\AndroidAttribute.cs" />
     <Compile Include="MyExamples\AttributesAndReflection\Application.cs" />
     <Compile Include="MyExamples\AttributesAndReflection\AppTargetAttribute.cs" />
@@ -124,6 +127,7 @@
     <Compile Include="MyExamples\AttributesAndReflection\DesktopAttribute.cs" />
     <Compile Include="MyExamples\AttributesAndReflection\MobileAttribute.cs" />
     <Compile Include="MyExamples\AttributesAndReflection\SymbianAttribute.cs" />
+    <Compile Include="MyExamples\DateTimeParsingExamples.cs" />
     <Compile Include="MyExamples\DelegatesAndLambda.cs" />
     <Compile Include="MyExamples\DotNetEventGuideLine.cs" />
     <Compile Include="MyExamples\DyamicObjectExample.cs" />
@@ -131,6 +135,8 @@
     <Compile Include="MyExamples\ExpandoObjectExample.cs" />
     <Compile Include="MyExamples\FlagsAttributeExample.cs" />
     <Compile Include="MyExamples\RaiseEventsInDerivedClass.cs" />
+    <Compile Include="MyExamples\RegularExpreesionsExample.cs" />
+    <Compile Include="MyExamples\StringWriterAndStringReaderExample.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
